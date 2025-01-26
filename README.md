@@ -1,46 +1,45 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This project is a simple webpage built to document the technologies I learned during the prework portion of this bootcamp. The goal of the project was to create a space where I could keep track of the technologies used and how they impacted my learning experience.
 
-- My motivation for this project was for me to create a very basic webpage that includede some details about the technologies that I would be using for    this project, for example I used basic HTML, CSS, and some JavaScripts variables and functions to lay a basic message for the future of what I would learn throughout this course.
-- I built this project so that I would have a place to come backt o and add notes about the various new technologies that I would be using in this course, as well as different tips and thjings to remember when using them.
-- This solved the problem of me needing to go back to multiple different places to see what I have used and how it has affected my time working on this bootcamp
-- I learned a few things. Firstly I learned about what makes up a developer's mindset as well as the things that I need to thjink about and how to structure my learning so it is as efficient as possible. I also learned some very basic things aboout HTML as how to structure things on a webpage and how to use syntax. I also learned some CSS to style the webpage and add some color, indentations and boxes and shadows. I also learned how to use version control Git and it's user interface, GitHub to be able to deploy and test out my projects through this course. Some basic JavaScript was also taught so that I know what functions are and how to name and assign variables. I also learned how to use some features of GitHub to finally publish my project or repo online for the whole world to see.
+- My motivation for this project was to create a very basic webpage that included details about the technologies I would be using in this course, such as HTML, CSS, and JavaScript. These technologies allowed me to lay a foundation for what I would learn in the future.
 
-## Installation
+- I built this project so that I would have a place to return to and add notes about new technologies, along with tips and things to remember when using them.
+- This project solves the problem of needing to go back to multiple places to track the technologies I've used and how they influenced my learning during the bootcamp.
 
-- N/A
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+- Through this project, I learned about the developer's mindset and how to structure my learning for maximum efficiency. I also learned about basic HTML structure, syntax, and styling with CSS. I explored Git version control and GitHub for deploying my projects. Additionally, I learned JavaScript fundamentals, such as creating functions and defining variables.
 
 ## Usage
 
-- This Prework Study Guide can be used to quickly access all of the things I have learned throughout this prework study guide, and it will be a place I can use in the future when I eventually learn more about each technology.
+This Prework Study Guide can be used to quickly access all of the things I have learned throughout this prework study guide, and it will be a place I can use in the future when I eventually learn more about each technology.
 
-## Credits
+## Installation
 
-- N/A
+No installation is required for this project, as it is simply a static webpage. Just simply open the `index.html` file
+
 
 ## License
 
-- Please refer to the LICENSE in the repo.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Badges
+This project is licensed under the MIT License.
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+If you are interested in learning more about this license, please visit the following link: [MIT License](https://opensource.org/licenses/MIT)
 
 ## Features
 
-If your project has a lot of features, list them here.
+This project includes basic elements such as:
+
+- Simple HTML structure with basic syntax and tags.
+- CSS for styling, including background colors and text formatting.
+- Basic JavaScript functionality, such as defining and assigning variables.
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+If you would like to contribute to this project, feel free to fork it and submit a pull request with your changes. You can also create an issue if you have any suggestions for improvements or enhancements.
 
-## Tests
+The [Contributor Covenant](https://www.contributor-covenant.org/) is the industry standard for contribution guidelines.
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
